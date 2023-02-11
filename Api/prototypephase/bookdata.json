@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "name": "nil",
+        "localized_name": "To Kill A Mockingbird",
+        "primary_attr": "By - Harper Lee",
+        "available": "Available",
+        "bookdescriptions": "A literary classic, To Kill A Mockingbird teaches about compassion and race in ways that are still relevant more than 50 years later. The story of growing up, learning life lessons and standing up for what’s right, this is a book everyone should revisit now and again.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/to-kill-a-mockingbird.jpg"
+    },
+    {
+        "id": 2,
+        "name": "nil",
+        "localized_name": "The Devil Wears Prada",
+        "primary_attr": "By - Lauren Weisberger",
+        "available": "Available",
+        "bookdescriptions": "While we wait for Weisberger's When Life Gives You Lululemons, we have no problem reading this fiction favorite in the meantime. A story about a boss from Hell, The Devil Wears Prada takes readers on a thrilling ride through the cutthroat world of high fashion and merciless editors.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/the-devil-wears-prada.jpg"
+    },
+    {
+        "id": 3,
+        "name": "nil",
+        "localized_name": "Big Little Lies",
+        "primary_attr": "By - Liane Moriarty",
+        "available": "Available",
+        "bookdescriptions": "When newcomer Jane met Celeste and Madeline, none of the women knew just how much they’d impact each other’s lives. All struggling with their own issues at home, the three moms take on the world of marriage, schoolyard drama and dangerous secrets in the #1 New York Times bestseller, Big Little Lies.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/big-little-lies.jpg"
+    },
+    {
+        "id": 4,
+        "name": "nil",
+        "localized_name": "The Great Gatsby",
+        "primary_attr": "By - F. Scott Fitzgerald",
+        "available": "Available",
+        "bookdescriptions": "If you haven’t picked this novel up since high school, we suggest you read it again. A story of love, loss and infatuation, The Great Gatsby is the glamorous literary classic we love to revisit. Get lost in this Jazz Age novel again about the wealthy and heartbroken Jay Gatsby.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/the-great-gatsby-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "nil",
+        "localized_name": "The Seven Husbands of Evelyn Hugo",
+        "primary_attr": "By - Taylor Jenkins Reid",
+        "available": "Available",
+        "bookdescriptions": "When Monique is chosen to cover a high-profile interview, she couldn’t be more surprised. Gaining Evelyn Hugo’s trust, Monique will learn about the movie icon’s scandalous life and the surprising way the two are connected. This is a novel we’ll take to the beach time and time again.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/seven-husbands.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "nil",
+        "localized_name": "Of Mice and Men",
+        "primary_attr": "By - John Steinbeck",
+        "available": "Available",
+        "bookdescriptions": "George has always kept a close eye on Lennie, a grown man with an adolescent mind. As the two take up new work in California, George advises Lennie against socializing with their boss’s daughter but when Lennie makes a dreadful mistake, it’ll have dangerous consequences for both of them.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/of-mice-and-men.jpg"
+    },
+    {
+        "id": 7,
+        "name": "nil",
+        "localized_name": "Harry Potter and the Sorcerer’s Stone",
+        "primary_attr": "By - J.K. Rowling",
+        "available": "Available",
+        "bookdescriptions": "The Harry Potter series is undoubtedly a series we are guilty of reading more than just a few times. The first book in this magical series about young wizard Harry Potter introduces readers to the world of Hogwarts and all the complex characters J.K. Rowling is famous for.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/harry-potter.jpg"
+    },
+    {
+        "id": 8,
+        "name": "nil",
+        "localized_name": "The Alienist",
+        "primary_attr": "By - Caleb Carr",
+        "available": "Sold",
+        "bookdescriptions": "Now a TNT hit TV show, The Alienist is the perfect read for those who can’t get enough of Mind Hunter. Set in 1896 New York, John Schuyler Moore is swept up into a suspenseful hunt for one of history’s first serial killers. This nail-biting read is too good to only read once.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/the-alienest.jpg"
+    },
+    {
+        "id": 9,
+        "name": "nil",
+        "localized_name": "Start Living an Awesome Life",
+        "primary_attr": "By - Jen Sincero",
+        "available": "Sold",
+        "bookdescriptions": "This self-help book is one we go back to every time we need a little pick-me-up. With 27 short chapters, You Are a Badass inspires readers to take control of their lives through wise advice, heartening life stories and a touch of humor.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/you-are-a-badass-1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "nil",
+        "localized_name": "I Know Why the Caged Bird Sings",
+        "primary_attr": "By - Maya Angelou",
+        "available": "Available",
+        "bookdescriptions": "Renowned author Maya Angelou won the hearts of readers everywhere with her debut memoir, I Know Why the Caged Bird Sings in 2002. This non-fiction read about Angelou’s life is a story of self-discovery and perseverance that gives us the inspiration to take on life’s most difficult situations.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/i-know-why-the-caged-bird-sings-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "nil",
+        "localized_name": "Never Let Me Go",
+        "primary_attr": "By - Kazuo Ishiguro",
+        "available": "Available",
+        "bookdescriptions": "A winner of the Nobel Prize in literature, Never Let Me Go is an intriguing story about a mysterious boarding school and a group of friends who will later find their way back to each other. Kathy, Ruth and Tommy will learn about the magic that lives within them and the lasting bonds of friendship in Ishiguro’s award-winning novel.",
+        "price": "20$",
+        "img": "https://shereads.com/wp-content/uploads/2018/02/never-let-me-go-2.jpg"
+    }
+
+]
